@@ -1,0 +1,41 @@
+{
+<<<<<<< HEAD
+  "name": "Kingclasses",
+  "displayName": "Kingclasses"
+}
+=======
+  "expo": {
+    "name": "kingclasses",
+    "slug": "kingclasses",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./App/assets/icon.png",
+    "splash": {
+      "image": "./App/assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./App/assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.mahedi080.kingclasses",
+      "versionCode": 1,
+      "permissions": ["WRITE_EXTERNAL_STORAGE"]
+    },
+    "web": {
+      "favicon": "./App/assets/favicon.png"
+    }
+  }
+}
+>>>>>>> c0233f25515c61343aed1f302d0b7283486bf459
