@@ -1,0 +1,14 @@
+<<<<<<< HEAD
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_dark">#000000</color>
+    <color name="bootsplash_background">#FFFFFF</color>
+</resources>
+=======
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources>
+  <color name="iconBackground">#FFFFFF</color>
+  <color name="splashscreen_background">#FFFFFF</color>
+  <color name="colorPrimary">#023c69</color>
+</resources>
+>>>>>>> c0233f25515c61343aed1f302d0b7283486bf459

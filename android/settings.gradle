@@ -1,0 +1,16 @@
+<<<<<<< HEAD
+rootProject.name = 'Kingclasses'
+apply from: file("../node_modules/@react-native-community/cli-platform-android/native_modules.gradle"); applyNativeModulesSettingsGradle(settings)
+include ':app'
+
+=======
+rootProject.name = 'kingclasses'
+
+apply from: '../node_modules/react-native-unimodules/gradle.groovy'
+includeUnimodulesProjects()
+
+apply from: file("../node_modules/@react-native-community/cli-platform-android/native_modules.gradle");
+applyNativeModulesSettingsGradle(settings)
+
+include ':app'
+>>>>>>> c0233f25515c61343aed1f302d0b7283486bf459

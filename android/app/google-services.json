@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "794089495312",
+    "project_id": "kingclasses-83c83",
+    "storage_bucket": "kingclasses-83c83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794089495312:android:fda747345aa3b73571a395",
+        "android_client_info": {
+          "package_name": "com.kingclasses"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794089495312-fvkqchu3m7rnaspn8kgpat2u7v3trrlv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kingclasses",
+            "certificate_hash": "70c365c6f75f9ad267ba7ecca85819db0f48061f"
+          }
+        },
+        {
+          "client_id": "794089495312-u6m4to4soje0kv35huva4ajjqdob57j7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATcUputcZwKjtlREuwJtDlI_KPm7VFkxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794089495312-u6m4to4soje0kv35huva4ajjqdob57j7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-7312346459096590~7195399207"
+    }
+  ],
+  "configuration_version": "1"
+}
